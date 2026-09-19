@@ -91,3 +91,10 @@ footer {
     margin-bottom: 30px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.15);
 }
+.logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 500px;
+    width: 80%;
+    height: auto;
+}
